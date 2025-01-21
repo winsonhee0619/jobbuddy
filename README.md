@@ -30,9 +30,20 @@ A modern and user-friendly job portal application built with **React (using TSX)
 Follow these steps to run the project locally:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/job-portal-app.git
-   cd job-portal-app
+npm install
+
+Run the development server:
+npm run dev
+
+Access the app: Open your browser and navigate to http://localhost:3000 (or as specified in the terminal).
+
+Build for Production
+To create a production-ready build:
+
+Run the build command:
+The optimized static files will be located in the dist directory.
+
+Serve the files using any static file server or deploy to a hosting platform like Netlify or Vercel.
 
 
 License
