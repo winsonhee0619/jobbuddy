@@ -29,24 +29,19 @@ A modern and user-friendly job portal application built with **React (using TSX)
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository**:
-npm install
-
-Run the development server:
-npm run dev
-
+1. **Clone the repository**: npm install
+2. Run the development server: npm run dev
 Access the app: Open your browser and navigate to http://localhost:3000 (or as specified in the terminal).
 
-Build for Production
+## Build for Production
 To create a production-ready build:
 
-Run the build command:
-The optimized static files will be located in the dist directory.
+Run the build command: The optimized static files will be located in the dist directory.
 
 Serve the files using any static file server or deploy to a hosting platform like Netlify or Vercel.
 
 
-License
+## License
 This project is licensed under the MIT License.
 
 🤝 Acknowledgements
@@ -61,5 +56,5 @@ Job Details Page
 📞 Contact
 For any inquiries, feel free to reach out:
 
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
+Email: winson.hee1906@gmail.com
+LinkedIn: https://www.linkedin.com/in/winson-hee-375a9866/
