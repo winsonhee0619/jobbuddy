@@ -33,3 +33,22 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/your-username/job-portal-app.git
    cd job-portal-app
+
+
+License
+This project is licensed under the MIT License.
+
+🤝 Acknowledgements
+React for the amazing frontend library.
+Vite for the fast development environment.
+Netlify for hassle-free deployment.
+🖼️ Screenshots
+Home Page
+
+Job Details Page
+
+📞 Contact
+For any inquiries, feel free to reach out:
+
+Email: your-email@example.com
+LinkedIn: Your LinkedIn Profile
